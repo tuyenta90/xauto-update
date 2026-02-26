@@ -20,7 +20,7 @@
         "size": 384225,
         "hash": {
             "type": "sha256",
-            "value": "sha256:6a6260ac140692f1e7f6b08c3fb2ddffd06d332928aceec752207a1856308cc2"
+            "value": "6a6260ac140692f1e7f6b08c3fb2ddffd06d332928aceec752207a1856308cc2"
         }
     },
 
@@ -77,4 +77,5 @@
         }
     ]
 }
+
 
