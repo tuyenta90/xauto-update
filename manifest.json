@@ -8,19 +8,19 @@
     },
 
     "current": {
-        "version": "1.0.3",
-        "build": 1033,
+        "version": "1.0.2",
+        "build": 1023,
         "release_date": "2026-02-26",
         "force_update": false,
         "min_supported_version": "1.0.1"
     },
 
     "download": {
-        "url": "https://example.com/xauto/xauto_1.0.3.zip",
-        "size": 18432000,
+        "url": "https://github.com/tuyenta90/xauto-update/releases/download/v1.0.2/xauto_v1.0.2.zip",
+        "size": 384225,
         "hash": {
             "type": "sha256",
-            "value": "A1B2C3D4E5F6..."
+            "value": "sha256:6a6260ac140692f1e7f6b08c3fb2ddffd06d332928aceec752207a1856308cc2"
         }
     },
 
@@ -77,3 +77,4 @@
         }
     ]
 }
+
