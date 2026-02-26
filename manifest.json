@@ -1,0 +1,79 @@
+﻿{
+    "app": {
+        "name": "xAuto",
+        "code": "xauto-tlbb",
+        "platform": "windows",
+        "game": "TLBB Origin",
+        "author": "xAuto Team"
+    },
+
+    "current": {
+        "version": "1.0.3",
+        "build": 1033,
+        "release_date": "2026-02-26",
+        "force_update": false,
+        "min_supported_version": "1.0.1"
+    },
+
+    "download": {
+        "url": "https://example.com/xauto/xauto_1.0.3.zip",
+        "size": 18432000,
+        "hash": {
+            "type": "sha256",
+            "value": "A1B2C3D4E5F6..."
+        }
+    },
+
+    "features": {
+        "login": true,
+        "auto_quest": true,
+        "auto_pet": true,
+        "anti_detection": true
+    },
+
+    "update_history": [
+        {
+            "version": "1.0.3",
+            "build": 1033,
+            "date": "2026-02-26",
+            "type": "feature",
+            "changes": [
+                "Thêm tính năng A",
+                "Fix crash khi game restart"
+            ]
+        },
+        {
+            "version": "1.0.2",
+            "build": 1023,
+            "date": "2026-02-25",
+            "type": "feature",
+            "changes": [
+                "Thêm Auto Pet thông minh",
+                "Cải thiện độ ổn định khi reload map",
+                "Fix crash khi game restart"
+            ]
+        },
+        {
+            "version": "1.0.1",
+            "build": 1018,
+            "date": "2026-02-18",
+            "type": "fix",
+            "changes": [
+                "Fix lỗi đọc NULL pointer",
+                "Tối ưu thread AutoLoop",
+                "Giảm CPU usage"
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "build": 1000,
+            "date": "2026-02-01",
+            "type": "major",
+            "changes": [
+                "Thêm hệ thống auto quest",
+                "Viết lại GameState manager",
+                "Thêm update online"
+            ]
+        }
+    ]
+}
