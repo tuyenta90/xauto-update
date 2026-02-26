@@ -28,7 +28,10 @@
         {
           "path": "Dbgview.exe",
           "size": 887160,
-          "hash": "374136c3136dfe14eb3b18908f64fa21b00eb0d8456d2de9e135d3b29cd1de2f"
+          "hash": {
+                "type": "sha256",
+                "value": "374136c3136dfe14eb3b18908f64fa21b00eb0d8456d2de9e135d3b29cd1de2f"
+            }
         },
     ]
 
@@ -85,6 +88,7 @@
         }
     ]
 }
+
 
 
 
