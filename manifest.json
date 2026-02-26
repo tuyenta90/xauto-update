@@ -11,7 +11,7 @@
         "version": "1.0.2",
         "build": 1023,
         "release_date": "2026-02-26",
-        "force_update": false,
+        "force_update": true,
         "min_supported_version": "1.0.1"
     },
 
@@ -77,5 +77,6 @@
         }
     ]
 }
+
 
 
